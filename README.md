@@ -18,12 +18,14 @@ With the Cricket World Cup 2024 coming up, it would be great to have a way to tr
 - HTTP Requests
 - Web Scraping
 - HTML Parsing
+- Regular Expressions, String Matching, and String Algorithms
 
 ## Languages and Libraries
 - Python
 - Tkinter
 - BeautifulSoup
 - Requests
+- RE (RegEx)
 
 ## Demo
 
