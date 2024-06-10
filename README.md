@@ -29,4 +29,16 @@ With the Cricket World Cup 2024 coming up, it would be great to have a way to tr
 
 ## Demo
 
-Will be available shortly, just a few features left to implement...
+- State of the app when it is first loaded:
+
+![alt text](image.png)
+
+- Select one of the ongoing live matches from the dropdown menu
+
+![alt text](image-1.png)
+
+- Press the check score button to view the details of the match:
+
+![alt text](image-2.png)
+
+It looks like the South African cricket team took the 2 points today against Bangladesh!!!
